@@ -12,3 +12,4 @@ An example of the data quality report can be found below.
 <img width="567" alt="image" src="https://user-images.githubusercontent.com/98120331/227535470-ceb942e7-a891-46e1-8990-afa774faedea.png">
 
 *Not all libraries are needed for report, this is a code snippet from a HW in Inteligent Data Analytics*
+*Non-numeric data is problematic and some parameters are commented out depending on the data set*
