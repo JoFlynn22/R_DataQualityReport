@@ -7,7 +7,7 @@ library(tidyr)
 library(ggplot2)
 library(Hmisc)
 
-train = read.csv("/Users/jacobflynn/Documents/Grad_School/Fall_2022/Intelligent_Data_Analytics/HW/IntelligentDA_HW6/train.csv")
+train = read.csv("train.csv")
 
 ###############################################################################
 #                         Numeric Data                                        #
